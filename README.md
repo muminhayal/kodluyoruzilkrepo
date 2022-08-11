@@ -13,4 +13,6 @@ code
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
+[MİT](image.png)
+
 ![proje resmi](image.png)
