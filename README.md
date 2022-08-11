@@ -13,3 +13,4 @@ code
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
+![proje resmi](image.png)
