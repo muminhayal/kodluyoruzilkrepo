@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğunuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor
+Bu repo [Kodluyoruz](https://github.com/muminhayal) Front-End Eğitiminde oluşturduğunuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor
 # Installation
 Öncelikle projeyi clonelayın
 https://github.com/muminhayal/kodluyoruzilkrepo.git
